@@ -1,5 +1,6 @@
 # Matrix Cache function - input x is a square matrix
 # author: Kelvin Chu
+# last updated : 07/22/2014
 # w <- makeCacheMatrix(x) - this function creates a special "matrix" 
 #      object that can cache its inverse
 makeCacheMatrix <- function(x = matrix()) {
